@@ -1,3 +1,5 @@
 # DD4LIFE
 **this is bold**
-#3 i guess this is heading 3?
+## heading 2
+### i guess this is heading 3?
+*this is italic*
